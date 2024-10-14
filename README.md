@@ -1,3 +1,3 @@
 # WALMART SUPERSTORE SALES ANALYSIS 
 Walmart Superstore Sales Analysis 
-Assignment on Walmart on West Region of United States from 2011-2014.
+Walmart Superstore Sales Analysis involves examining sales data to identify trends and insights that optimize inventory management and improve marketing strategies.
